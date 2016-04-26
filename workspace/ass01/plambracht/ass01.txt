@@ -1,0 +1,67 @@
+1 Projektcharakteristika
+
+Risiko:
+Studium kann scheitern. Entsprechend ist man auch von anderen Studiengängen mit ähnlichen
+Fächern ausgeschlossen.
+
+Einamligkeit in der Gesamtheit der Bedingungen:
+Es ist nur möglich einen Studiengang nur ein Mal abzuschließen
+
+Projektspezifische Organisation:
+Jeder Studiengang hat andere Vorraussetzungen, die für einen Abschluss erreicht werden müssen.
+Diese werden jeweils in unterschiedlichen Prüfungsordnungen festgehalten
+
+
+
+2 Magisches Dreieck
+
+Im Magischen Dreieck werden die drei wichtigsten Ressourcen eines Projektes dargestellt: Kosten,
+Leistung, Zeit. Diese drei Ressourcen stehen aber in Konkurenz zueinander. Wenn man z.B für ein
+Projekt maximale Leistung bringen könnte das ein eventuelles Budget (Kosten) sprengen, auch kann
+es sein das Zeitvorgaben dann nicht mehr eingehalten werden können. Ähnlich verhält es sich bei
+den anderen Seiten. Es muss also bei einem Projekt immer sinnvoll zwischen den 3 Ressourcen ab-
+gewogen werden.
+
+
+3 Projektorganisation
+
+Bei einem großen Videospielepublisher soll eine neue Marke, neben den sonst jährlichen Veröffentlichungen,
+entwickelt werden. Hierfür würde sich die Autonome Projektorganisation anbieten.
+
+Vorteile:
+- Da zu beginn erst mal ein kreativer Prozess ansteht sollten die Teammitglieder losgelöst vom eigentlichen
+  Tagesgeschäfft sein
+- Das Team kann sich mit dem Projekt identifizieren
+- Der Einfluss durch die Unternehmensführung wird stark gdämpft. Einige Elemente die in anderen etablierten Marken
+  erfolg hatten, vorallem finanziell, könnten sich ggf. auf die neue Marke schädlich auswirken und zu einem
+  Kommererziellen Flopp führen
+- Ein scheitern dieses Projektes beeinflusst nicht das eigentliche Tagesgeschäft.
+- Die befugnisse des Projektleiters sind eindeutig geklärt
+- Bei Störungen / Problemen können Ressourcen schnell und flexibel umverteilt werden.
+
+Nachteile:
+- Es ist ggf. schwierig neue Teammitglieder zu rekrutieren, falls die Expertise des bestehenden Teams nicht ausreicht
+- Da das Projekt autonom agiert, ist das Team auf einen fähigen Projektleiter angewiesen
+
+
+Vorallem der kreative aspekt macht es sinnvoll das Projekt autonom zu organisieren. Auch kann  sich der Einfluss der Unternehmensführung
+negativ auswirken. Diese ist ggf. eher auf Gewinnmaximierung aus und will so lieber auf altbewertes setzen. Kreativität in der Videospiel-
+branche kann sich gerade in der heutigen Zeit lohnen. Unabhängige, kreative Indiespiele efreuen sich zurzeit großer beliebtheit.
+
+
+4 Projektziele
+
+Festlegung der benötigten Technologien:
+ - Wird ein PHP Server für dynamische Webseiten benötigt?
+ - Reicht eine Frontend Seite?
+ - Wird eine Datenbankanbindung benötig? Existiert schon eine oder muss eine neue aufgesetzt werden?
+
+Generierung der Webseitenelemente:
+ - Festlegung der Bedienelemente für den Endnutzer
+ - Format und Seitenaufbau
+
+Bereitstellung von Tools zum pflegen der Webseite:
+ - Werden die Tools zum pflegen vom Projekt Team verwendet oder müssen sie für andere entsrpechend Dokumentiert werden?
+
+Bereitstellung Tools zur Wartung der Webseite:
+ - ggf. muss auch hier für andere Dokumentiert werden.
