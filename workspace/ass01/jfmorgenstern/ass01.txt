@@ -1,1 +1,55 @@
--
+1. Projektcharakteristika
+
+Einmaligkeit in der Gesamtheit der Bedingungen:
+Ein Studium kann als einmalig in der Gesamtheit der Bedingungen bezeichnet werden, da die Ausgangssituation für ein Studium jeweils individuell verschieden (finanizelle Lage, Begabungen, Vorkenntnisse, eigene Anforderungen an Erfolge, zeitliche Aspekte) ist.
+
+Zielvorgabe:
+Ein Studium geht mit einer klaren Zielvorgabe einher: Dem Erlangen des erstrebten Abschlusses, ggf. in einer bestimmten Zeit / mit einer bestimmten Abschlussnote.
+
+Begrenzungen:
+Die Ressourcen sind bei einem Studium begrenzt:
+	- personell (Man ist "seine eigene" personelle Ressource, ein Studium muss man alleine meistern)
+	- zeitlich (Das Studium ist zeitlich begrenzt. Es gibt Fristen, welche einzuhalten sind, außerdem ist die Studiendauer auch durch finanzielle Aspekte mehr oder weniger begrenzt.
+
+Abgrenzung gegenüber anderer Vorhaben:
+Es findet eine klare Abgrenzung gegenüber anderen Vorhaben statt: Das Studium hat eigene Ziele (Studienerfolg, Lernerfolg).
+
+projektspezififsche Organisation:
+Der Abschluss eines Studium erfordert bestimmte Bedigungen, nach welchen man sich richten muss. Diese Bedingungen werden extern vorgegeben durch die Studienordnung.
+
+Interdisziplinär:
+Das Curriculum eines Studiengangs umfasst Module verschiedener Disziplinen. Daher kann man es als interdisziplinär bezeichnen.
+
+Mit Risiken behaftet:
+Durch nichtbestehen von Klausuren kann ein Studium scheitern.
+
+
+2. Magisches Dreieck
+Im Zuge der Projektplanung werden verschiedene Anforderungen an die Parameter "Kosten", "Leistung" und "Zeit" festgelegt.
+Diese Parameter müssen gegeneinader ausbalanciert werden.
+
+*\Grafik Magisches Dreieck in PDF\*
+
+Hierbei bezeichnen die "Kosten" das vorgegebene Budget an Ressourcen (Material, Personal, Finanzielle Ressourcen).
+"Zeit" bezeichnet die benötigte Projektlaufzeit von Beginn bis Abschluss des Projektes.
+"Leistung" gibt an, mit welcher Qualität die Projektziele erreicht werden. (Beispiel Studium: Abschlussnote)
+
+Der Erfolg eines Projekts wird unter anderem daran bemessen, wie die anfangs festgelegte Verteilung der Parameter eingehalten werden konnten.
+
+Eine besondere Herrausforderung stellen Projekte dar, welche sehr ausgewogene Anforderungen an diese 3 Kriterien stellen. Für den Projektmanager ist es eine schwierige Aufgabe, alle drei Parameter während der Durchführung des Projektes auszubalancieren. Unvorhergesehene Ereignisse können beispielsweise die Kosten oder die zeitliche Dauer erhöhen, Fehler während des Projektes können die Leistung vermindern.
+
+
+3. Projektorganisation
+- Finde die Lösung von Philipp eigentlich schon sehr gut, füge ggf. nachher noch meine eigene ein -
+
+
+4. Projektziele
+
+Zieldefinition:
+
+Die Zielgruppe soll durch die Webseite angesprochen werden. Dies soll durch Evaluation sichergestellt werden.
+Die Softwareergonmischen Anforderungen nach EN ISO 9241 sollen erfüllt werden.
+Zeitliche Begrenzung - Die Webseite soll zu einer genau definierten "Deadline" lauffähig, funktional und erreichbar sein.
+Kosten (Formalziel) - Die kosten der Entwicklung, sowie die Betriebskosten der Webseite sollen unter einer definierten Vorgabe liegen.
+
+
