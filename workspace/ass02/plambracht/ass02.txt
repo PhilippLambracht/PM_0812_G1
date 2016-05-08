@@ -1,0 +1,65 @@
+1 Komponenten der Projektplanung
+
+Strukturplanung:
+Festlegung der "Struktur" des Projekts. Die Arbeitspakete aus denen verschiedene Fähigkeiten hervorgehen werden festgelegt. Ggf Einteilung des Projektes in Teilprojekte.
+ - Objektorientierter Projektstrukturplan:
+   Hier wird dargestellt welche Gegenstände hergestellt werden müssen.
+ - Unterstützt die Ablaufplanung, Terminplanung, da man ggf. schon feststellen kann was parallel gefertigt werden kann und was von einander abhängig ist.
+
+Terminplanung
+Die Aufwände der einzelne Vorgänge und deren Abhängigkeit ist bekannt werden mit Start- und Endterminen versehen. In dieser Planung wird ermittelt wann das Projekt sehr wahrscheinlich abgeschlossen sein wird, unter der Vorraussetzung, dass ein nur ein Starttermin festgelegt ist.
+Falls nur ein Endtermin festgelegt ist, muss erst mal überprüft werden ob dieser eingehalten werden kann, ggf müssen die Zeiten der Vorgänge angepasst werden, falls das möglich ist.
+ - Critical Path Method:
+   - Dient zur Auffindung von zeitkriischen Wegen im Projekt. Kann zur Optimierung der Anfangs- und Endzeiten der Vorgänge eingesetzt werden.
+
+Kostenplanung
+Schätzung der anfallenden Kosten für das Projekt. Es wird entsprechend erfasst wann und wo und wofür die Kosten anfallen
+ - Projektkostendarstellung nach Projektstrukturplan:
+   - benötigt einen schon vorhandenen Projektstrukturplan
+   - Kosten werden erst einmal pro Arbeitspaket und dann in höhre Instanzen zusammengerechnet
+ - Liefert Informationen für die Kapazitätenplanung über die Ressource benötigtes Kapital
+
+
+Ablaufplanung
+Einteilung der Arbeitspakete in Vorgänge. Annordnung der einzelnen Vorgänge in eine Reihenfolge. Vorgänge die nicht abhängig voneinander sind, können parallelisiert werden.
+ - Erstellte Ablaufpläne haben Anordnungsbeziehungen.
+   - Normalfolge: Erst muss Vorgang 1 abgeschlossen sein bevor Vorgang 2 beginnen kann (Parallelität)
+   - Anfangsfolge: Der Beginn von Vorgang 1 ist Voraussetzung um mit Vorgang 2 anzufangen (Parallelität)
+   - Endfolge: Der Vorgang 1 muss abgeschlossen sein bevor Vorgang 2 beendet ist ((Parallelität))
+   - Sprungfolge: Beginn von Vorgang 1 ist Vorraussetzung für Ende von Vorgang 2
+ - Folgevorgänge können auch entsprechend entsprechend der Komplimentierung gestartet werden, z.B. Vorgang 2 startet wenn Vorgang 1 zu 50% komplett ist.
+ - Hiermit wird die Terminplanung unterstützt. Es wird festgelegt in welcher Reihenfolge produziert wird. So hat man einen Anfang und kann auch die verschiedenen SChritte mit Terminen versehen.
+
+
+Kapazitätenplanung
+Erfassung der benötigten Ressourcen für die Durchführung der einzelnen Vorgänge. Ermitteln der zur Verfügung stehenden Ressourcen. Ressoucenverteilung vornehmen mit optimaler Auslastung.
+ - Lösung für Engpassressourcen:
+   - Falls nicht genug Ressourcen zur verfügung stehen muss ggf umgeplant werden:
+     - Falls möglich zusätzliche Ressourcen anfordern (z.B. mehr Personal, externe Spezialisten)
+     - Projektumfang begrenzen
+     - Falls nur Zeitressource knapp, Projektendetermin nach hinten verschieben
+  - Stellt ebenfalls wichtige Informationen für die Terminplanung zusammen.
+
+
+2 Projektstrukturplan
+
+Objektorientierter Projektstrukturplan:
+Aufteilung des Projektes in Gegenstände die zu beschaffen bzw. hergestellt werden müssen.
+
+Funktionsorientierter Projektstrukturplan
+Projekt wird in einzelne Tätigkeiten zerlegt, die es zu erledigen gilt.
+
+Gemischt orientierte Projektstrukturplan
+Eine, falls nötig, sinnvolle Kombination aus den voringen Strukturplänen
+
+Für das Bauprojekt ist der Funktionsorienterte Projektstrukturplan zu wählen, da bei der Planung von Bauprojekten häufig an Speziallisten weiterdeligiert wird.
+
+
+
+3 Ablaufplanung
+
+Normalfolge: Zu sehen bei (1). Hier muss der Architekturplan abgeschlossen sein, damit ein Bauunternehmen mit den Bauarbeiten beauftragt werden kann.
+Anfangsfolge: Zu sehen bei (2). Die Beratung über Sanitär & Heizung kann parallel zur Elektroplanung erfolgen.
+Überlappung oder Verzögerung: Zu sehen bei (3). Es kann schon mit den Installationen begonnen werden, obwohl die Abnahme noch nicht erfolgt ist (Riskant)
+Endfolge: Kein Beispiel in Grafik. Ein Vorgang muss abgeschlossen sein bevor ein anderer beendet wird. Beide Vorgänge laufen parallel ab.
+Sprungolfe: Kein Beispiel in Grafik. Der Beginn eines Vorgangs ist die Vorraussetzung für das Ende eines anderern.
