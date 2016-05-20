@@ -23,9 +23,9 @@ Schätzung der anfallenden Kosten für das Projekt. Es wird entsprechend erfasst
 Ablaufplanung
 Einteilung der Arbeitspakete in Vorgänge. Annordnung der einzelnen Vorgänge in eine Reihenfolge. Vorgänge die nicht abhängig voneinander sind, können parallelisiert werden.
  - Erstellte Ablaufpläne haben Anordnungsbeziehungen.
-   - Normalfolge: Erst muss Vorgang 1 abgeschlossen sein bevor Vorgang 2 beginnen kann (Parallelität)
-   - Anfangsfolge: Der Beginn von Vorgang 1 ist Voraussetzung um mit Vorgang 2 anzufangen (Parallelität)
-   - Endfolge: Der Vorgang 1 muss abgeschlossen sein bevor Vorgang 2 beendet ist ((Parallelität))
+   - Normalfolge: Erst muss Vorgang 1 abgeschlossen sein bevor Vorgang 2 beginnen kann (sequenziell)
+   - Anfangsfolge: Der Beginn von Vorgang 1 ist Voraussetzung um mit Vorgang 2 anzufangen (parallel)
+   - Endfolge: Der Vorgang 1 muss abgeschlossen sein bevor Vorgang 2 beendet ist ((parallel))
    - Sprungfolge: Beginn von Vorgang 1 ist Vorraussetzung für Ende von Vorgang 2
  - Folgevorgänge können auch entsprechend entsprechend der Komplimentierung gestartet werden, z.B. Vorgang 2 startet wenn Vorgang 1 zu 50% komplett ist.
  - Hiermit wird die Terminplanung unterstützt. Es wird festgelegt in welcher Reihenfolge produziert wird. So hat man einen Anfang und kann auch die verschiedenen SChritte mit Terminen versehen.
