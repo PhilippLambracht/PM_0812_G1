@@ -1,0 +1,49 @@
+1 Terminologie
+
+Risikomanagement
+Risikomanagement befasst sich mit dem identifizieren, analysieren, sowie Gegenmaßnahmen für Risiken, die für ein Projekt bestehen.
+Es werden die Wahrscheinlichkeiten von Risiken betratrachtet, sowie deren Chancen. Wichtig hierbei ist, das die Chancen die Risiken übersteigen.
+
+Controlling
+Unter der Vo­r­aus­set­zung, dass Projektcontrolling gemeint, wird beim Controlling permanent Sollvorgaben des Projektes mit den Ist-Werten verglichen. Es
+werden Funktions-, Leistungs- und Qualitätsanforderungen überprüft. Aufgabe des Controlling ist die Qualitätssicherung.
+
+Reporting
+Reporting befasst sich mit der Berichterstattung. Es wird festgelegt wer, was, zu welchem Termin und wie oft Bericht erstattet wird. Zudem wird der Berichtsweg
+(an wen ist zu berichten?, welches Medium?) sowie die Berichtsform (z.B. Formular) festgelegt. Ziel ist hierbei Planabweichungen früh genug zu erkennen, um Gegensteuern
+zu können.
+
+
+2 Risikomanagement
+
+Risikoidentifikation
+Hier sollten alle Risiken erfasst und Präzise beschrieben werden.
+
+Risikoanalyse
+Feststellung der "Härte" des Risokos (gering, eher gering, eher hoch, hoch). Feststellung der Wahrscheinlichkeiten ob ein bestimmtes Risiko eintritt.
+
+Ma0nahmenplanung
+Entwurf von Gegenmaßnahmen der Risiken, so wie deren Möglichkeit der Durchführung. Auch werden Kapital- und Zeitbedarf betrachtet
+
+Risikoüberwachung und -steuerung
+Beobachtung der Risiken während Durchführung des Projekts, sowie entscheiden über den Einsatz eventueller Gegenmaßnahmen.
+
+
+3 Terminüberwachung
+Es gilt zu ermitteln ob das Projekt noch im Zeitplan ist und ob es zu Komplikationen kommen kann. Je häufiger ein Soll-Ist Vergleich gemacht wird, desto besser kann eventuell noch
+gegengesteuert werden.
+
+Planungsfehler: Es wurden Fehler aufgrund mangelnder Planungserfahrung gemacht. Auch kann der Aufwand unterschätzt sein oder Zeit- und Kostendruck
+des Auftraggebers wurden undbedacht in die Planung übernommen. Es kann auch sein, dass die Mitarbeiter mit der Komplexität des Projekts überfordert sind.
+
+Unvorhersehbaren im Projektverlauf: Änderungen der Anforderungen. Technische, personelle bzw. organisatorische Änderungen. Wegfallen von Mitarbeiter. Ausfall, Insolvenz
+von Lieferanzen, Zulieferen
+
+Ausführungsfehler: Fehler in der Eigentlichen Ausführung. Mitarbeiter nicht quailifiziert. Unnötige Arbeiten.
+
+
+4 Projektfortschritt
+Die Idee mit dem Fortschritt in % sollte ein wenig verfeinert werden. Es würde sich anbieten die Erstellung der Dokumentation in Meilensteine aufzuteilen, entsprechend der Gliederung der Dokumentation.
+Auch sollte jeder Meilenstein mit entsprechenden Fertigstellungsterminen versehen werden. Ist die Gliederung ensprechend fein, kann ggf. besser Umverteilt werden, falls etwas Unvorhergesehenes passieren.
+Fertigstellungstermine sollten festgelegt werden, da ansonsten die Projektteilnehmer die Arbeit unnötig aufschieben. Aus sollte der Fortschritt nicht nur beim Gruppenleiter gesammelt werden, sondern dem
+ganzen Team zugänglich gemacht werden, um ggf. Projektteilnehmer, die im hintertreffen sind, zu motivieren mehr zu arbeiten.
