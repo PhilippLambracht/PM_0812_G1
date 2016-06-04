@@ -1,0 +1,37 @@
+A1)
+
+Risikomanagement:
+Beim Risikomanagement handelt es sich um einen fortlaufenden Prozess, welcher Identifizierung, Priorisierung und Bewertung von Risiken beinhaltet. Es wird betrachtet, mit welcher Wahrscheinlichkeit Risikos eintreten und welchen potentiellen Schaden sie verursachen können. Ziel des Risikomanagements ist es, dass Chancen die Risiken übersteigen (=> positive outcome).
+
+Projektcontrolling:
+Controlling befasst sich als Teil der Qualitätssicherung mit der Überwachung des Projekts: Hierbei werden Sollvorgaben mit Ist-Werten während der Projektrealisation verglichen. Konkret überwacht werden:
+Einhalten von Zeiten/Terminen/Fristen, Kosten und die Qualität, bzw. erbrachte Leistung.
+
+Reporting:
+Das Reporting beschäftigt sich mit der frühzeitigen Erkennung von Planabweichungen um ein zeitnahes Gegensteuern ermöglicht ist. Hierzu werden Kommikationswege, Kommunikationsrichung und Kommunikationsmedien zur Berichtserstattung über Vorgänge und Projektstatus festgelegt.
+
+
+A2)
+
+Risikoidentifikation
+Risikoanalyse
+Maßnahmenplanung
+Risikoüberwachung und –steuerung
+
+-> Siehe Script -.-
+
+A3)
+
+Ein Soll-Ist-Vergleich ist sinnvoll, da durch Vergleich von Soll und Ist-Zuständen effektiv und zeitnah Komplikationen entgegengesteuert werden kann. Es ist günstiger Fehler zeitnah zu entdecken und zu beheben - als erst wenn das komplette Projekt dadurch bedroht ist.
+
+Planungsfehler
+Unvorhersehbares im Projektverlauf
+Ausführungsfehler
+-> Paraphrasieren aus Skript -.-
+
+
+A4)
+
+Keine Kontrolle über mögliche Fehlangaben, was den eigenen Projektfortschritt anbelangt.
+"Schätzung" nicht klar definiert.
+Gegenmaßnahmen definieren, falls soll nicht erreicht wird?
